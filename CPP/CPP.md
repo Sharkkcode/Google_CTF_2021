@@ -2,7 +2,7 @@
 
 - A file with a lot of macros: [cpp.c]()
 - Turn the code to some language the we can debug with computer. Here is my full code: [python_c.py]()
-- By analyzing the code I found that there is a lot of 0~7s, so I assume that they are some byte-like data. ex: SOMETHING_0~SOMTHING_7 is a byte.
+- By analyzing the code I found that there is a lot of 0s to 7s, so I assume that they are some byte-like data. ex: SOMETHING_0 to SOMTHING_7 is a byte.
 - If we can execute the program into "if S==58", then S will become -1. That means (S != -1) isn't true and we will go to the main function. (The input will be our flag)
 
 - Code segment at bellow tells us that byte Q must be 0 everytime.
