@@ -19,7 +19,6 @@
 - goto loc.check_flag
 
     ![](https://github.com/Sharkkcode/Google_CTF_2021/blob/main/HEXAGON/imgs/check_flag.png)
-
     ![](https://github.com/Sharkkcode/Google_CTF_2021/blob/main/HEXAGON/imgs/check_flag_2.png)
 
 - goto loc.hex1 to loc.hex6
