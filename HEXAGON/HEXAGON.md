@@ -39,7 +39,7 @@
 - There is only some simple calculation, so I use z3 to solve this. But I failed... By reading [This_writeup](https://github.com/cscosu/ctf-writeups/tree/master/2021/google_ctf/hexagon), I found that some commands must be executed in parallel.
 - By checking debug info, these commands must be executed in parallel. So I modified my code and get the flag.
 
-    ![]()
+    ![](https://github.com/Sharkkcode/Google_CTF_2021/blob/main/HEXAGON/imgs/parallel.png)
 
 - Code:
 
