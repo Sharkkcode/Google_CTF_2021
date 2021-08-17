@@ -2,7 +2,7 @@
 
 - Throw the file into r2, we can see the functions.
 
-    ![]()
+    ![](https://github.com/Sharkkcode/Google_CTF_2021/blob/main/HEXAGON/imgs/functions.png)
 
 - goto entry0
 
